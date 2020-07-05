@@ -35,7 +35,5 @@ in line 458 of cocoeval.py, the following code is added to print AP and AR for e
                     print('(all categories) mAR : {}'.format(avg_ap / (num_classes - nocase_count)))
 ```
 
-inspired by 
-
-[COCO api evaluation for subset of classes]: https://stackoverflow.com/questions/56247323/coco-api-evaluation-for-subset-of-classes
+inspired by https://stackoverflow.com/questions/56247323/coco-api-evaluation-for-subset-of-classes
 
